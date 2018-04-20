@@ -1,0 +1,1 @@
+{!! Form::open(['action' => [$controller . '@destroy', $site_id, $id], 'method' => 'delete', 'class' => 'delete']) !!}<button type="submit" class="btn btn-sm btn-danger"><i class="icons-office-52"></i></button>{!! Form::close() !!}

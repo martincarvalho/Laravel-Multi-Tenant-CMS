@@ -1,0 +1,1 @@
+<a href="{{ action($action, ['site_id' => $site_id, 'id' => $id]) }}" class="btn btn-sm btn-default"><i class="icon-note"></i></a>

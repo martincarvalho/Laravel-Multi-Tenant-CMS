@@ -1,0 +1,18 @@
+form.delete{
+    display: inline;
+}
+
+.table th:last-child{
+    width:125px;
+}
+
+.table .thumb{
+    max-width:60px;
+    max-height:60px;
+}
+
+.panel-content img{
+    display: block;
+    margin:auto;
+    max-width:100%;
+}
